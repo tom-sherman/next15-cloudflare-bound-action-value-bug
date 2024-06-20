@@ -1,5 +1,5 @@
 {
-  "name": "next15-cloudflare-useactionstate-bug",
+  "name": "next15-cloudflare-bound-action-value-bug",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,9 +13,9 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
   },
   "dependencies": {
-    "next": "14.1.0",
-    "react": "^18",
-    "react-dom": "^18"
+    "next": "15.0.0-rc.0",
+    "react": "19.0.0-rc-e684ca66ab-20240619",
+    "react-dom": "19.0.0-rc-e684ca66ab-20240619"
   },
   "devDependencies": {
     "@cloudflare/next-on-pages": "1",

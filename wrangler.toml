@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "next15-cloudflare-useactionstate-bug"
+name = "next15-cloudflare-bound-action-value-bug"
 compatibility_date = "2024-06-20"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
